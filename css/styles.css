@@ -15,6 +15,10 @@
   font-family: "Open Sans", sans-serif;
 }
 
+main {
+  background-color: var(--bg-gray);
+}
+
 h1,
 h2,
 h3,
